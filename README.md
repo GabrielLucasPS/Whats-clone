@@ -1,6 +1,7 @@
 # WhatsClone
 
-Este projeto foi feito para estudo e testes.
+Este projeto é um clone do whatsapp usando REACT e Firebase.
+- projeto foi feito para estudo e testes.
 
 
 ## Available Scripts
