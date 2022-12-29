@@ -1,0 +1,17 @@
+.login {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login button {
+    font-size: 20px;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: .5;
+}
